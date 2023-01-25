@@ -1,0 +1,6 @@
+#Mon Jan 09 01:13:15 IST 2023
+by=xpath
+context=NONINSTRUMENTED
+expression=//*[@id\='digit_6' and @class\='android.widget.ImageButton']
+json={"id"\:"digit_6","dumpElementType"\:"NONINSTRUMENTED","x"\:551,"y"\:1351,"width"\:232,"height"\:208,"onScreen"\:true,"uniqueKeys"\:"id,contentDescription,content-desc,index,resource-id","package"\:"com.google.android.calculator","hidden"\:"false","checkable"\:"false","knownSuperClass"\:"android.widget.ImageButton","clickable"\:"true","content-desc"\:"6","index"\:"17","focusable"\:"true","enabled"\:"true","resource-id"\:"com.google.android.calculator\:id/digit_6","longClickable"\:"false","password"\:"false","top"\:"true","contentDescription"\:"6","focused"\:"false","bounds"\:"[551,1351][783,1559]","long-clickable"\:"false","class"\:"android.widget.ImageButton","scrollable"\:"false","selected"\:"false"}
+page=Calculater
